@@ -2,6 +2,11 @@
 
 A simple RESTful API that shortens long URLs into short, shareable links. Built using **Node.js**, **Express.js**, and **MongoDB**.
 
+## 🔗 Live Demo
+
+[![Live](https://img.shields.io/badge/Live%20Demo-onrender-green?style=for-the-badge&logo=render)](https://url-shortener-r60v.onrender.com)
+
+
 ## 📦 Tech Stack
 
 - **Language**: JavaScript (Node.js)
